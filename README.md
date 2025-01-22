@@ -40,7 +40,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaisilan7565" alt="jaisilan7565" /></a> </p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaisilan7565&theme=radical" height="180em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisilan7565&theme=dark&show_icons=true&locale=en&layout=compact" alt="jaisilan7565" height="180em"/>
 </div>
 
 <div align="center">
